@@ -55,10 +55,6 @@ http://uhlive.videocc.net/recordfe/c08946f08620190726103829356/playlist.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 ,NHK 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 ,广电记录
-http://cbnlive.cbchot.com/live/jilupian_1.m3u8?123
-#EXTINF:-1 ,广电卡通
-http://cbnlive.cbchot.com/live/shaoer_test_hd_1.m3u8?123
 #EXTINF:-1 ,浙江卫视FHD
 http://112.17.40.140/PLTV/88888888/224/3221226136/index.m3u8
 #EXTINF:-1 ,浙江卫视FHD
